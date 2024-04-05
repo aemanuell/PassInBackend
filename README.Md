@@ -33,6 +33,8 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 Toda a documentação da API foi feita com Swagger
 
+<img src="./src/assets/docSwagger.png" width="600" alt="Documentação com o Swagger" />
+
 ## Banco de dados
 
 Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente de desenvolvimento seguiremos com o SQLite pela facilidade do ambiente.
