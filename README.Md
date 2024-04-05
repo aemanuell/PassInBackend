@@ -31,7 +31,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 ## Documentação da API (Swagger)
 
-Para documentação da API, acesse o link: https://nlw-unite-nodejs.onrender.com/docs
+Toda a documentação da API foi feita com Swagger
 
 ## Banco de dados
 
@@ -39,7 +39,7 @@ Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente 
 
 ### Diagrama ERD
 
-<img src="./src/assets/image.png" width="600" alt="Diagrama ERD do banco de dados" />
+<img src="./src/assets/erd.svg" width="600" alt="Diagrama ERD do banco de dados" />
 
 ### Estrutura do banco (SQL)
 
